@@ -1,24 +1,23 @@
-![Github Banner](assets/banner.jpg)
+![GitHub Banner](assets/banner.jpg)
 
-<h3>Hi<img src="assets/hello.gif" width="30" alt="hi" />, Nice to see you.</h3>
-I'm Saeed, a Full Stack Web Application Developer with a strong affinity for JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. **I'm currently actively seeking new work and employment opportunities**
+<h3>Hi <img src="assets/hello.gif" width="30" alt="hi" />, Nice to see you.</h3>
 
-I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. My daily work involves active coding on various platforms, including Laravel, WordPress themes, plugins, and APIs. I specialize in business development projects, user products, and serving consumer needs.
+I'm Saeed, a Full Stack Web Application Developer with a strong affinity for JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. **I'm currently actively seeking new work and employment opportunities**.
 
-- ✅ I am successfully able to complete many client projects in Laravel, WordPress, Javascript, and much more.
-- 🧑‍🤝‍🧑 Currently I started to contribute to open source projects and create packages like:
-  [utilities functions](https://github.com/appsaeed/utilities-functions)
-- 🔭 I’m currently creating some projects for codecanyon on Laravel and Javascript Frontend Framework and high
-  performance with so many cool features like never before.
-- 🌱 I’m always learning many things, and I believe that every day is a learning opportunity.
-- 👯 I’m currently open for work and employment opportunities (remote or location)
-- 💬 Ask me anything about Javascript, React.js, AI, PHP, WordPress, Laravel, and API development.
-- 📫 Faster contact email me: - [appsaeed7@gmail.com](mailto:appsaeed7@gmail.com)
-- 😄 Pronouns: He, Fat & Happy 😄
+I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. My daily work involves active coding on various platforms, including Laravel, WordPress themes, plugins, and APIs. I specialize in business development projects, user products, and serving consumer needs.
+
+- ✅ Successfully completed many client projects in Laravel, WordPress, JavaScript, and more.
+- 🧑‍🤝‍🧑 Currently contributing to open-source projects and creating packages like [utilities functions](https://github.com/appsaeed/utilities-functions).
+- 🔭 Working on projects for codecanyon, involving Laravel and JavaScript Frontend Frameworks, featuring high performance and innovative features.
+- 🌱 Always learning and believe that every day is a learning opportunity.
+- 👯 Open for work and employment opportunities (remote or on-location).
+- 💬 Feel free to ask me anything about JavaScript, React.js, AI, PHP, WordPress, Laravel, and API development.
+- 📫 For quick contact, email me: [appsaeed7@gmail.com](mailto:appsaeed7@gmail.com).
+- 😄 Pronouns: He, Fat & Happy 😄.
 - 🛬 Fun fact: I love to travel, read books, watch movies, YouTube videos, and listen to music.
-- 🔧 Most uses Tools: VS Code, Terminal, Linux, Windows, Docker, Browsers, etc.
+- 🔧 Most used tools: VS Code, Terminal, Linux, Windows, Docker, Browsers, etc.
 
-### Things I code with
+### Things I Code With
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
@@ -55,8 +54,6 @@ I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. M
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-e95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-blue?style=flat-square&logo=windows&logoColor=white)
-
-### Projects & Ventures
 
 <table>
     <thead>
@@ -116,7 +113,7 @@ I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. M
 
 </table>
 
-### Where to find me
+## Where to Find Me
 
 [![appsaeed7@gmail.com](https://img.shields.io/badge/Email-appsaeed7@gmail.com-ff2e00?style=flat-square&logo=gmail&logoColor=white)](mailto:appsaeed7@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/appsaeed/)
@@ -124,10 +121,10 @@ I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. M
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/appsaeed8)
 [![Website](https://img.shields.io/badge/Website-1A56DB?style=flat-square&logo=apache&logoColor=white)](https://appsaeed.github.io)
 
-### Numbers
+## Statistics
 
-![Saeed'sStats](https://github-readme-stats.vercel.app/api?username=appsaeed&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=appsaeed&theme=darcula&show_icons=true&hide_border=true&count_private=true)
 
-![Saeed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=appsaeed&theme=darcula&hide_border=true)
+![Saeed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=appsaeed&theme=darcula&hide_border=true)
 
-![Saeed's TopLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=appsaeed&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+![Saeed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appsaeed&theme=darcula&show_icons=true&hide_border=true&layout=compact)
