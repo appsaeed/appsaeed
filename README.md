@@ -60,7 +60,7 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
 <table>
     <thead>
         <tr style="border: none;">
-            <td><b>Project name</b></td>
+            <td style="min-width:160px"><b>Project name</b></td>
             <td><b>Description</b></td>
             <td><b>Tags</b></td>
         </tr>
