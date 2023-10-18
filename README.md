@@ -2,7 +2,7 @@
 
 <h3>Hi <img src="assets/hello.gif" width="30" alt="hi" />, Nice to see you.</h3>
 
-I'm Saeed, a Full Stack Web Application Developer with a strong affinity for JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. **I'm currently actively seeking new work and employment opportunities**.
+I'm Saeed, a Full Stack Web Application Developer with a strong affinity for JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. Currently, **I'm open to work and employment opportunities**.
 
 I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. My daily work involves active coding on various platforms, including Laravel, WordPress themes, plugins, and APIs. I specialize in business development projects, user products, and serving consumer needs.
 
@@ -23,13 +23,15 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![inertia](https://img.shields.io/badge/Inertiajs-5468ff?style=for-the-badge&logo=inertia&logoColor=white)
 ![Solid.js](https://img.shields.io/badge/solid.js-3282f6?style=for-the-badge&logo=solid&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/React.js-087e92?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Preact.js](https://img.shields.io/badge/Preact.js-673ab8?style=for-the-badge&logo=preact&logoColor=61DAFB)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Livewire](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Liverwire-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
@@ -72,8 +74,11 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
         </tr>
         <tr>
             <td><a href="https://appsaeed.github.io/asc" target="_blank">AI Sources Creatro</a></td>
-            <td>The web base ai tool in build in wordpress in backend and reactjs, Typescript in frontend for ui design
-                this tool allows use to create eamil, blogs, articles and many more.</td>
+            <td>
+                Revolutionize Content Creation with Our Web-Based AI Tool - Powered by WordPress, ReactJS, and TypeScript
+                <br>
+                Introducing our cutting-edge web-based AI tool, seamlessly integrated into the WordPress backend and brought to life with the dynamic UI design of ReactJS and TypeScript on the frontend. This powerhouse tool empowers users to effortlessly generate email content, craft engaging blogs, and create captivating articles, among many other possibilities
+            </td>
             <td>Wordpress, API, Reactjs, Typescript</td>
         </tr>
         <tr>
@@ -86,15 +91,20 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
         </tr>
         <tr>
             <td><a href="https://harvardedit.com" target="_blank">Harvard Edit</a></td>
-            <td>Harverdedit is wordpress site and jurnal website for maintenance and receve order from client and sale
-                online books and writing. </td>
+            <td>
+                HarverdEdit: Your Premier WordPress Journal Website for Maintenance, Orders, Book Sales, and Writing
+                <br>
+                Welcome to HarverdEdit, the ultimate destination for your journaling needs, website maintenance, order reception, online book sales, and professional writing services. Our WordPress site is your one-stop solution for all things related to academic journals and creative content.
+            </td>
             <td>Wordpress, Elementor, Code Snippets</td>
         </tr>
         <tr>
             <td><a href="https://portal.the247openhouse.com" target="_blank">openhouse</a></td>
-            <td>openhouse is Laravel full stack web application to make enterprise business on online this application
-                make user to handle customer support vai twilio or other phone call auto respone service. and also we
-                have lot of functionality in this application</td>
+            <td>
+                OpenHouse: A Full Stack Laravel Web Application for Enterprise Business
+                <br>
+                OpenHouse is a powerful Laravel full-stack web application designed to help enterprise businesses thrive online. This versatile application enables users to efficiently manage customer support through Twilio or other phone call auto-response services. With an array of advanced functionalities, OpenHouse is an indispensable tool for businesses looking to enhance their online presence
+            </td>
             <td>Laravel, Jquery, Twilio, API</td>
         </tr>
         <tr>
@@ -123,7 +133,7 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
 
 ## Statistics
 
-![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=appsaeed&theme=darcula&show_icons=true&hide_border=true&count_private=true)
+![Saeed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=appsaeed&theme=darcula&show_icons=true&hide_border=true)
 
 ![Saeed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=appsaeed&theme=darcula&hide_border=true)
 
