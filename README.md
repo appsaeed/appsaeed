@@ -2,7 +2,7 @@
 
 <h3>Hi <img src="assets/hello.gif" width="30" alt="hi" />, Nice to see you.</h3>
 
-I'm Saeed, a Full Stack Web Application Developer with a strong affinity for JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. Currently, **I'm open to work and employment opportunities**.
+I'm Saeed, a Full Stack Web Application Developer with a good expertise for JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. Currently, **I'm open to work and employment opportunities**.
 
 I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. My daily work involves active coding on various platforms, including Laravel, WordPress themes, plugins, and APIs. I specialize in business development projects, user products, and serving consumer needs.
 
