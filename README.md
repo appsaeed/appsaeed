@@ -73,7 +73,7 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
             <td>Firebase, Tailwindcss, Reactjs, Typescript</td>
         </tr>
         <tr>
-            <td><a href="https://appsaeed.github.io/asc" target="_blank">AI Sources Creatro</a></td>
+            <td><a href="https://appsaeed.github.io/asc" target="_blank">AI Sources Creation</a></td>
             <td>
                 Revolutionize Content Creation with Our Web-Based AI Tool - Powered by WordPress, ReactJS, and TypeScript
                 <br>
