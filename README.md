@@ -138,3 +138,10 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
 ![Saeed's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=appsaeed&theme=darcula&hide_border=true)
 
 ![Saeed's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=appsaeed&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+
+
+
+# status
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/appsaeed/appsaeed/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/appsaeed/appsaeed/output/github-contribution-grid-snake.svg#gh-light-mode-only)
