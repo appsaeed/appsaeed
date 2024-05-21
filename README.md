@@ -4,7 +4,7 @@
 
 I'm Saeed, a Full Stack Web Application Developer with good expertise in JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. Currently, **I'm open to work and employment opportunities**.
 
-Experience working in freelance marketplaces (Fiverr Level 2) specializing in Laravel, WordPress themes/plugins, and APIs. I actively build business development projects, user products, and consumer needs.
+Experience working in freelance marketplaces (Fiverr Level 2) specializing in vanila Javascript, raw PHP, Laravel, ReactJS, WordPress themes/plugins, and APIs. I actively build business development projects, user products, and consumer needs.
 
 ## Full portfolio: [https://appsaeed.github.io](https://appsaeed.github.io)
 
