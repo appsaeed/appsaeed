@@ -4,7 +4,7 @@
 
 I'm Saeed, a Full Stack Web Application Developer with good expertise in JavaScript, React.js, Laravel, Headless Technology, and everything related to APIs. I also specialize in TailwindCSS, and WordPress, including themes, plugins, and Rest APIs. Currently, **I'm open to work and employment opportunities**.
 
-I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. My daily work involves active coding on various platforms, including Laravel, WordPress themes, plugins, and APIs. I specialize in business development projects, user products, and serving consumer needs.
+Experience working in freelance marketplaces (Fiverr Level 2) specializing in Laravel, WordPress themes/plugins, and APIs. I actively build business development projects, user products, and consumer needs.
 
 - ✅ Skilled full-stack developer proficient in Laravel, Node.js, WordPress, and the modern JavaScript ecosystem (ReactJS, TailwindCSS).
 - 🧑‍🤝‍🧑 Currently contributing to open-source projects & creating packages/plugins e.g [utilies](https://github.com/appsaeed/utilies) | [vite-svg](https://github.com/appsaeed/vite-svg) | [vite-sitemap](https://github.com/appsaeed/vite-sitemap).
@@ -32,9 +32,7 @@ I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a h
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Livewire](https://img.shields.io/badge/Liverwire-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-663399?style=for-the-badge&logo=alpine.js&logoColor=white)
 ![WordPress](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Elementor](https://img.shields.io/badge/Elementor-9146FF?style=for-the-badge&logo=elementor&logoColor=white)
 
 ![Vite](https://img.shields.io/badge/Vite-43853D?style=for-the-badge&logo=vite&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
