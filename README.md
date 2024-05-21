@@ -6,16 +6,16 @@ I'm Saeed, a Full Stack Web Application Developer with good expertise in JavaScr
 
 I am currently working as a Freelancer so I am a Level Two seller on Fiverr, a highly acclaimed freelancing marketplace. My daily work involves active coding on various platforms, including Laravel, WordPress themes, plugins, and APIs. I specialize in business development projects, user products, and serving consumer needs.
 
-- ✅ Successfully completed many client projects in Laravel, WordPress, JavaScript, and more.
-- 🧑‍🤝‍🧑 Currently contributing to open-source projects and creating packages like [utilies](https://github.com/appsaeed/utilies).
-- 🔭 Working on projects for codecanyon, involving Laravel and JavaScript Frontend Frameworks, featuring high performance and innovative features.
+- ✅ Skilled full-stack developer proficient in Laravel, Node.js, WordPress, and the modern JavaScript ecosystem (ReactJS, TailwindCSS).
+- 🧑‍🤝‍🧑 Currently contributing to open-source projects & creating packages/plugins e.g [utilies](https://github.com/appsaeed/utilies) | [vite-svg](https://github.com/appsaeed/vite-svg) | [vite-sitemap](https://github.com/appsaeed/vite-sitemap).
+- 🔭 Continuous improvement in programming, soft skills, and new tools fuels innovation and high performance.
 - 🌱 Always learning and believe that every day is a learning opportunity.
-- 👯 Open for work and employment opportunities (remote or on-location).
-- 💬 Feel free to ask me anything about JavaScript, React.js, AI, PHP, WordPress, Laravel, and API development.
-- 📫 For quick contact, email me: [appsaeed7@gmail.com](mailto:appsaeed7@gmail.com).
-- 😄 Pronouns: He, Fat & Happy 😄.
-- 🛬 Fun fact: I love to travel, read books, watch movies, YouTube videos, and listen to music.
-- 🔧 Most used tools: VS Code, Terminal, Linux, Windows, Docker, Browsers, etc.
+- 👯 Open to work and employment opportunities (remote/on-location).
+- 💬 Ask me anything about JavaScript, Typescript, ReactJS, PHP, Laravel, WordPress, and APIs!
+- 📫 For quick contact, please send an email to: [appsaeed7@gmail.com](mailto:appsaeed7@gmail.com).
+- 😄 Pronouns: He, Him & Happy 😄.
+- 🛬 Fun fact: I love to travel, read books, Watch movies, YouTube videos, and listen to music.
+- 🔧 Most used tools: VS Code, AI, Terminal, Linux, Windows, Docker, Browsers, etc.
 
 ### Things I Code With
 
