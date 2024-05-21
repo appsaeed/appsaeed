@@ -13,7 +13,7 @@ Experience working in freelance marketplaces (Fiverr Level 2) specializing in La
 - 🔭 Continuous improvement in programming, soft skills, and new tools fuels innovation and high performance.
 - 🌱 Always learning and believe that every day is a learning opportunity.
 - 👯 Open to work and employment opportunities (remote/on-location).
-- 💬 Ask me anything about JavaScript, Typescript, ReactJS, PHP, Laravel, WordPress, and APIs!
+- 💬 Ask me anything about JavaScript, Typescript, ReactJS, PHP, Laravel, NodeJS, and APIs!
 - 📫 For quick contact, please send an email to: [appsaeed7@gmail.com](mailto:appsaeed7@gmail.com).
 - 😄 Pronouns: He, Him & Happy 😄.
 - 🛬 Fun fact: I love to travel, read books, Watch movies, YouTube videos, and listen to music.
